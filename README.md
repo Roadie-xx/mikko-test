@@ -1,6 +1,5 @@
 # Coding Challenge
 
----
 ## Inhoudsopgave
 - [Inleiding](##Inleiding)  
 - [De opdracht](##De%20opdracht)  
